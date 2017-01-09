@@ -7,7 +7,7 @@ node_modules
 coverage
 tests
 /compiled
-**/*[!.][!d].ts
+
 
 .cleandir.sh
 yarn.lock
@@ -15,7 +15,7 @@ yarn.lock
 karma.entry.js
 karma.conf.js
 karma.conf.debug.js
-tsconfig.json
+
 tslint.json
 typedoc.json
 wallaby.js

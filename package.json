@@ -51,7 +51,7 @@
   "dependencies": {
     "@angular/common": "~2.4.1",
     "@angular/core": "~2.4.1",
-    "e2e4": "^2.0.0-rc.0",
+    "e2e4": "git+https://github.com/GerrAlt12/e2e4.git",
     "rxjs": "^5.0.1"
   },
   "devDependencies": {
